@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # Election Audit
 
 ## Overview of Election Audit
 
 A Colorado Board of Elections employee gave me the following tasks to complete the election audit of a recent local congressional election.
+=======
+# Election_Analysis
+
+## Project Overview
+
+A Colorado Board of Elections employee has given you the following talks to complete the election audit of a recent local congressional election
+>>>>>>> ba6508a66ca91998da53c48c24c7e18fd902cff6
 
 1.	Calculate the total number of votes cast.
 2.	Get a complete list of candidates who received votes.
@@ -11,12 +19,19 @@ A Colorado Board of Elections employee gave me the following tasks to complete t
 5.	Determine the winner of the election based on popular vote.
 
 ## Resources
+<<<<<<< HEAD
 
 -	Data Source: election_results.csv
 -	Software: Python 3.7.6, Visual Studio Code, 1.50.1
 
 ## Election_Audit Results
 
+=======
+-	Data Source: election_results.csv
+-	Software: Python 3.6.1, Visual Studio Code, 1.38.1
+
+## Summary
+>>>>>>> ba6508a66ca91998da53c48c24c7e18fd902cff6
 The analysis of the election show that:
 -There were 369,711 votes cast in the election.
 -The candidates were:
@@ -33,6 +48,7 @@ The analysis of the election show that:
 
 - The winner of the election was:
 -	Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
+<<<<<<< HEAD
 
 
 ## Challenge Overview
@@ -98,3 +114,11 @@ Lastly, I used a print statement to print out the county with the largest turnou
     print(winning_county_summary)
 
     txt_file.write(winning_county_summary)
+=======
+## Challenge Overview
+
+
+
+## Challenge Summary
+
+>>>>>>> ba6508a66ca91998da53c48c24c7e18fd902cff6
